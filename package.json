@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://{Djacamo01}.github.io/{MiPortafolio}",
+  "homepage": "http://Djacamo01.github.io/MiPortafolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{Djacamo01}.github.io/{MiPortafolio}'",
+    "build-gh": "parcel build --public-url 'https://Djacamo01.github.io/MiPortafolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
